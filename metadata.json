@@ -1,0 +1,7 @@
+{
+  "name": "Arrow Puzzle",
+  "description": "An addictive puzzle game where you untangle and shoot arrows off the board in strategic order across classic, daily, and time attack modes.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
